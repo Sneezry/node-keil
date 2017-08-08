@@ -1,0 +1,25 @@
+{
+  "name": "node-keil",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fs-plus": "^3.0.1",
+    "jsdom": "^11.1.0",
+    "uuid": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sneezry/node-keil.git"
+  },
+  "author": "Zhe Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sneezry/node-keil/issues"
+  },
+  "homepage": "https://github.com/Sneezry/node-keil#readme"
+}
